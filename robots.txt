@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://db0505.hitad.co.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
